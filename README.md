@@ -1,4 +1,4 @@
-## Hey, I'm Samuel Hoover.
+## Hi, I'm Samuel Hoover.
 ESL educator and recent Computer Science graduate with 5+ years of teaching experience. I'm interested in using my experience as a teacher to improve education technology and usability for speakers of all languages. I love to learn, and I love to help others do so too.
 
 ## Technologies and Tools

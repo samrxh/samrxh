@@ -15,8 +15,10 @@ ESL educator and recent Computer Science graduate with 5+ years of teaching expe
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 
+<!--
 ## Major Projects
 [![OpenForum](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=OpenForum&theme=radical)](https://github.com/samrxh/OpenForum)
 [![Example Database](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=CS340-project&theme=radical)](https://github.com/samrxh/CS340-project)
 [![Small Shell](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=smallsh&theme=radical)](https://github.com/samrxh/smallsh)
 [![Divinator](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=divinator&theme=radical)](https://github.com/samrxh/divinator)
+-->

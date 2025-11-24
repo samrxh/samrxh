@@ -19,4 +19,4 @@ ESL educator and recent Computer Science graduate with 5+ years of teaching expe
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=OpenForum&theme=radical)](https://github.com/samrxh/OpenForum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=CS340-project&theme=radical)](https://github.com/samrxh/CS340-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=smallsh&theme=radical)](https://github.com/samrxh/smallsh)
-[![Readme Card](https://github.com/samrxh/divinator&theme=radical)](https://github.com/samrxh/divinator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrxh&repo=divinator&theme=radical)](https://github.com/samrxh/divinator)
